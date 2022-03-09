@@ -1,6 +1,5 @@
 👋 Hello, I’m Kunal!  
-👀 I’m interested in using Python in machine learning and web development applications  
-🌱 I’m currently improving my Python and web development knowledge  
+🖥️ I have both experience in and am currently improving my knowledge of machine learning and web development, specifically in **Python**
 🏞️ Outside of computing I enjoy being in the great outdoors - backpacking, hiking and mountain biking   
 📧 You can reach me professionally at kunalkapoor.career@gmail.com
 
